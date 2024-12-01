@@ -3,7 +3,7 @@
 ## 🚀 Software Engineering Undergraduate
 
 ### 💻 About Me
-![Coding Laptop](https://media.giphy.com/media/fAnzBwObWDl8LkWEOV/giphy.gif)
+![Developer Icon](https://media.giphy.com/media/kH1DBkPNyZPLYkRwqm/giphy.gif)
 I'm a passionate software engineering student at SLIIT, transforming lines of code into innovative solutions. When I'm not debugging or crafting elegant algorithms, you'll find me exploring the latest tech trends and pushing the boundaries of what's possible.
 
 
