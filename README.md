@@ -2,10 +2,10 @@
 
 ## 🚀 Software Engineering Undergraduate
 
-![Coding Gif](https://media.giphy.com/media/배당금/giphy.gif)
 
 ### 💻 About Me
 I'm a passionate software engineering student at SLIIT, transforming lines of code into innovative solutions. When I'm not debugging or crafting elegant algorithms, you'll find me exploring the latest tech trends and pushing the boundaries of what's possible.
+
 
 ### 🛠️ Tech Arsenal
 #### Languages
@@ -33,7 +33,3 @@ I'm a passionate software engineering student at SLIIT, transforming lines of co
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
-
-
-### 📊 GitHub Stats
-![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
