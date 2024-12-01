@@ -3,8 +3,7 @@
 ## 🚀 Software Engineering Undergraduate
 
 ### 💻 About Me
-![Developer Icon](https://media.giphy.com/media/kH1DBkPNyZPLYkRwqm/giphy.gif)
-I'm a passionate software engineering student at SLIIT, transforming lines of code into innovative solutions. When I'm not debugging or crafting elegant algorithms, you'll find me exploring the latest tech trends and pushing the boundaries of what's possible.
+I'm a passionate **undergraduate software engineering student at SLIIT**, transforming lines of code into innovative solutions. When I'm not debugging or crafting elegant algorithms, you'll find me exploring the latest tech trends and pushing the boundaries of what's possible.
 
 
 ### 🛠️ Tech Arsenal
