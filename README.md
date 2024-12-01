@@ -5,7 +5,9 @@
 ### 💻 About Me
 I'm a passionate **undergraduate software engineering student at SLIIT**, transforming lines of code into innovative solutions. When I'm not debugging or crafting elegant algorithms, you'll find me exploring the latest tech trends and pushing the boundaries of what's possible.
 
-![Animated Coder](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="Animated Coder" width="150" />
+</div>
 
 
 ### 🛠️ Tech Arsenal
