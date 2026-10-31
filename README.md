@@ -1,55 +1,45 @@
 ![Ishan Dilmith — software engineering at SLIIT. Build, learn, improve.](assets/profile-banner.svg)
 
-## Hi, I'm Ishan 👋
+### Hey, I'm Ishan 👋
 
-I'm a software engineering undergraduate at **SLIIT**, interested in building useful products and understanding how they work from end to end. My projects take me from web and mobile interfaces to backend systems and AI-focused research.
+I'm a software engineering undergraduate at SLIIT who enjoys turning ideas into useful applications. I explore **full-stack development, mobile apps, microservices, and AI** through hands-on projects.
 
-**Currently exploring** · Full-stack applications · Microservices · AI-powered learning
-
-[![View projects](https://img.shields.io/badge/VIEW_MY_PROJECTS-1c5267?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IshanDilmith?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-IshanDilmith-181717?style=for-the-badge&logo=github)](https://github.com/IshanDilmith)
+[![Projects](https://img.shields.io/badge/Explore-Projects-246b80?style=for-the-badge&logo=github)](https://github.com/IshanDilmith?tab=repositories)
 
 ---
 
-## Selected work
+## 🚀 Featured work
 
-### 01 / [EmpowerZ research portfolio ↗](https://github.com/IshanDilmith/R26-SE-10-Portfolio)
+🧠 **[EmpowerZ research portfolio](https://github.com/IshanDilmith/R26-SE-10-Portfolio)**<br>
+A research portfolio for an AI-driven soft-skills training and feedback platform for Gen Z employees.
 
-A research portfolio for **EmpowerZ**, an AI-driven soft-skills training and feedback platform for Gen Z employees. The project brings together adaptive learning, role-play simulations, and behavioral feedback.
-
-`Research` `AI` `JavaScript`
-
-### 02 / [Automated Assignment Grader ↗](https://github.com/IshanDilmith/Automated-Assignment-Grader)
-
+📝 **[Automated Assignment Grader](https://github.com/IshanDilmith/Automated-Assignment-Grader)**<br>
 An assignment grading project with a Python repository and a separate [TypeScript client](https://github.com/IshanDilmith/Automated-Assignment-Grader-ClientSide).
 
-`Python` `TypeScript`
+📱 **[ToDo — Task Management App](https://github.com/IshanDilmith/ToDo---Task-Management-App)**<br>
+A Kotlin mobile app for tracking tasks and managing time.
 
-### 03 / [ToDo — Task Management App ↗](https://github.com/IshanDilmith/ToDo---Task-Management-App)
+🅿️ **[ParkX](https://github.com/IshanDilmith/ParkX---Automated-Parking-System)**<br>
+A web-based parking management system for finding and reserving parking spaces.
 
-A Kotlin mobile app designed to help users track tasks and manage their time.
+→ [See all repositories](https://github.com/IshanDilmith?tab=repositories)
 
-`Kotlin` `Android`
+## 🛠️ Technologies & tools
 
-### 04 / [ParkX ↗](https://github.com/IshanDilmith/ParkX---Automated-Parking-System)
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,kotlin,cpp,php" alt="Java, Python, JavaScript, TypeScript, Kotlin, C++ and PHP" />
 
-A web application for viewing available parking spaces and managing reservations.
+**Web & data**<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind,mongodb,mysql" alt="React, Node.js, Express, HTML, CSS, Tailwind CSS, MongoDB and MySQL" />
 
-`PHP` `JavaScript` `HTML` `CSS`
-
-**More to explore** → [Browse all repositories](https://github.com/IshanDilmith?tab=repositories)
-
----
-
-## The toolkit
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,kotlin,cpp,php&perline=7" alt="Java, Python, JavaScript, TypeScript, Kotlin, C++ and PHP" />
-<br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind,mongodb,mysql&perline=8" alt="React, Node.js, Express, HTML, CSS, Tailwind CSS, MongoDB and MySQL" />
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,idea&perline=5" alt="Git, GitHub, Postman, Android Studio and IntelliJ IDEA" />
+**Tools**<br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,idea" alt="Git, GitHub, Postman, Android Studio and IntelliJ IDEA" />
 
 ---
 
 <div align="center">
-  <sub>Thanks for visiting · Let's build something useful.</sub>
+
+<sub>Always learning, one project at a time.</sub>
+
 </div>
